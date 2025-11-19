@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "535981417411",
+    "project_id": "due-pam-app",
+    "storage_bucket": "due-pam-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535981417411:android:9b0092d611e082cfcf1376",
+        "android_client_info": {
+          "package_name": "com.example.flutter_applicatin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCMvAn5UT2XZmO32jVhnlQpPSRFNkTL4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
